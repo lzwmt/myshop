@@ -8,3 +8,5 @@
 
 echo 'test file';
 echo 'test file2';
+echo 'test file2';
+echo 'test file2';
