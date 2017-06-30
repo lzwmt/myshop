@@ -7,3 +7,4 @@
  */
 
 echo 'test file';
+echo 'test file2';
